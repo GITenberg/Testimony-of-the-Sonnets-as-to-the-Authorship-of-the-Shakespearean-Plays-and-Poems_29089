@@ -1,0 +1,28 @@
+_repo: Testimony-of-the-Sonnets-as-to-the-Authorship-of-the-Shakespearean-Plays-and-Poems_29089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Jesse
+    birthdate: 1842
+    gutenberg_agent_id: '33692'
+    url: http://www.gutenberg.org/2009/agents/33692
+description: ''
+gutenberg_issued: '2009-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29089'
+  lccn: '99002425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616. Sonnets'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship'
+title: Testimony of the Sonnets as to the Authorship of the Shakespearean Plays and
+  Poems
+url: http://www.gutenberg.org/ebooks/29089
