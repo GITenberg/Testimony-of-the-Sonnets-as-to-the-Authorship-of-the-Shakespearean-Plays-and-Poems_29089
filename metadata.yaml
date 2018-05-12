@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33692'
     url: http://www.gutenberg.org/2009/agents/33692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29089#Testimony-of-the-Sonnets-as-to-the-Authorship-of-the-Shakespearean-Plays-and-Poems
 gutenberg_issued: '2009-06-10'
 gutenberg_type: Text
 identifiers:
